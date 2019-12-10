@@ -1,0 +1,2 @@
+# OpenSaga
+Open source RPG
